@@ -1,3 +1,3 @@
 My first readme
-It's nice updating from Github
-I love it
+Updating readme from github
+Nice
